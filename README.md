@@ -17,6 +17,7 @@ Reporting and Analytics: It provides analytical tools to generate reports on per
 Customer Relationship Management (CRM): The system enhances customer service by managing inquiries, complaints, and feedback effectively.
 
 Safety and Compliance: RMS ensures adherence to safety regulations and standards, contributing to the overall safety of railway operations.
+![Screenshot (612)](https://github.com/user-attachments/assets/d14d0923-dc36-48de-b347-2af05160921e)
 ![Screenshot (607)](https://github.com/user-attachments/assets/d22c85d6-69ca-43f1-adb5-d19e2843a661)
 ![Screenshot (608)](https://github.com/user-attachments/assets/51331c24-d12c-41db-8b1d-61325d857c07)
 ![Screenshot (609)](https://github.com/user-attachments/assets/0beb9580-e2c3-4ed5-9639-2ab43d15de99)
